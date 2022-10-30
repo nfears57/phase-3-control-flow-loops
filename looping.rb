@@ -1,5 +1,8 @@
 def happy_new_year
   # your code here
+countdown == 10 
+until coundtown == 0
+  counter -= 1 
 end
 
 # No need to modify this code! Use this to implement the fizzbuzz_printer method.
